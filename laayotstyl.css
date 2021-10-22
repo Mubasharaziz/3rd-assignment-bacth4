@@ -1,0 +1,72 @@
+.container{
+    /* background-color: brown; */
+    margin: 10px;
+    /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    }
+    .header{
+        background-color: gainsboro;
+        height: 100px;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        /* margin: 10px; */
+        margin-bottom: 10px;
+        
+        
+    }
+    
+    .navebar{
+    
+    background-color: gainsboro;
+    height: 60px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    }
+    
+    .centercontent{
+        display: flex;
+        justify-content: space-around;
+        /* flex-direction: row; */
+        width: 100%;
+        height: 400px;
+        /* padding: 10px; */
+        margin-top: 10px;
+    }
+    
+    .content{
+    
+         background-color:gainsboro;
+         display: flex;
+         justify-content: center;
+         width: 25%;
+         align-items: center;
+         /* padding: 10px; */
+         /* margin: auto; */
+         /* margin: 10px; */
+    
+    
+    }
+    
+    .maincontent{
+        background-color: gainsboro;
+        width: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /* padding: 10px; */
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .footer{
+        background-color:gainsboro;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 10px;
+    
+    }
